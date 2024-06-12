@@ -97,7 +97,7 @@ body {
   justify-content: center;
   gap: 10px;
   overflow: hidden;
-  margin-top: 50px; /* Adjust this value to match the height of your fixed header */
+  margin-top: 60px;
 }
 
 .containergames > div {
@@ -511,7 +511,7 @@ p {
   text-decoration: none;
   display: flex;
   justify-content: center;
-  margin-top: 20px; /* Adjust this value to move the button closer to the timeline */
+  margin-top: 20px; 
 }
 
 button {
@@ -643,12 +643,12 @@ nav ul li a {
   text-decoration: none;
 }
 
-/* Style sections */
+
 section {
   padding: 20px;
 }
 
-/* Style footer */
+
 footer {
   background-color: gray;
   color: black;
@@ -664,15 +664,15 @@ header {
   top: 0;
   width: 100%;
   z-index: 1000;
-  background-color: rgba(0, 0, 0, 0.8); /* Optional: to make the header background slightly transparent */
-  padding: 4px 0; /* Adjust padding as needed */
+  background-color: rgba(0, 0, 0, 0.8); 
+  padding: 4px 0; 
 }
 
 .header-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 20px; /* Adjust padding as needed */
+  padding: 0 20px; 
   font-family: 'ITC Eras Ultra Regular';
     font-style: normal;
     font-weight: normal;
@@ -690,12 +690,12 @@ nav ul {
 }
 
 nav ul li {
-  margin: 0 15px; /* Adjust margin as needed */
+  margin: 0 15px;
 }
 
 nav ul li a {
   text-decoration: none;
-  color: white; /* Adjust color as needed */
+  color: white; 
 }
 a{
   text-decoration: none;
